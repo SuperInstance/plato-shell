@@ -1,0 +1,8 @@
+[package]
+name = "plato-shell"
+version = "0.1.0"
+edition = "2021"
+description = "Unified Plato Shell — a MUD-like environment for agent interaction"
+license = "MIT"
+
+[dependencies]
